@@ -154,7 +154,7 @@
     <value>'{PropertyName}' debería ser igual a '{ComparisonValue}'.</value>
   </data>
   <data name="exact_length_error" xml:space="preserve">
-    <value>'{PropertyName}' debe tener una longitude de {MaxLength} caracteres. Actualmente tiene {TotalLength} caracter(es).</value>
+    <value>'{PropertyName}' debe tener una longitud de {MaxLength} caracteres. Actualmente tiene {TotalLength} caracter(es).</value>
   </data>
   <data name="exclusivebetween_error" xml:space="preserve">
     <value>'{PropertyName}' debe estar entre {From} y {To} (exclusivo). Actualmente tiene {Value}.</value>
